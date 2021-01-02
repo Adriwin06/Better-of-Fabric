@@ -1,0 +1,10 @@
+[
+  {
+    "blocks": [
+      "traverse:yellow_autumnal_leaves[distance\u003d3,persistent\u003dfalse]",
+      "traverse:yellow_autumnal_leaves[distance\u003d4,persistent\u003dfalse]",
+      "traverse:yellow_autumnal_leaves[distance\u003d2,persistent\u003dfalse]"
+    ],
+    "color": "ffcbaa22"
+  }
+]

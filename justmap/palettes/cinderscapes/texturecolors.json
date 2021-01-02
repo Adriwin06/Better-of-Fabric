@@ -1,0 +1,21 @@
+{
+  "cinderscapes:block/polypite_sulfur_quartz": "ffeee03e",
+  "cinderscapes:block/ash": "ff313131",
+  "cinderscapes:block/polypite_rose_quartz": "fffcc8fe",
+  "cinderscapes:block/polypite_smoky_quartz": "ff454546",
+  "cinderscapes:block/crystalline_rose_quartz": "e7e8babf",
+  "cinderscapes:block/scorched_stem": "ff2e1f10",
+  "cinderscapes:block/polypite_quartz": "ffe2e2e2",
+  "cinderscapes:block/crystalline_sulfur_quartz": "e7ddd362",
+  "cinderscapes:block/crystalline_smoky_quartz": "e741382d",
+  "cinderscapes:block/sulfur_quartz_ore": "ff764233",
+  "cinderscapes:block/pyracinth": "ff9d521f",
+  "cinderscapes:block/rose_quartz_ore": "ff8b484a",
+  "cinderscapes:block/smoky_quartz_ore": "ff613130",
+  "cinderscapes:block/sulfur_ore": "ff6c342a",
+  "cinderscapes:block/scorched_shrub": "ff221007",
+  "cinderscapes:block/scorched_sprouts": "ff2c1307",
+  "cinderscapes:block/bramble_berry_bush_stage3": "f9391b22",
+  "cinderscapes:block/scorched_tendrils": "ff35181a",
+  "cinderscapes:block/crystalline_quartz": "e7d5d1c9"
+}

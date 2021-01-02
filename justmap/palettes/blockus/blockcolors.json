@@ -1,0 +1,43 @@
+[
+  {
+    "blocks": [
+      "blockus:limestone"
+    ],
+    "color": "ffb8a477"
+  },
+  {
+    "blocks": [
+      "blockus:marble"
+    ],
+    "color": "ffe3e5e8"
+  },
+  {
+    "blocks": [
+      "blockus:white_oak_leaves[distance\u003d4,persistent\u003dfalse]",
+      "blockus:white_oak_leaves[distance\u003d2,persistent\u003dfalse]",
+      "blockus:white_oak_leaves[distance\u003d1,persistent\u003dfalse]",
+      "blockus:white_oak_leaves[distance\u003d3,persistent\u003dfalse]",
+      "blockus:white_oak_leaves[distance\u003d5,persistent\u003dfalse]",
+      "blockus:white_oak_leaves[distance\u003d6,persistent\u003dfalse]"
+    ],
+    "color": "ffd28c47"
+  },
+  {
+    "blocks": [
+      "blockus:bluestone"
+    ],
+    "color": "ff65707a"
+  },
+  {
+    "blocks": [
+      "blockus:redstone_lamp_lit"
+    ],
+    "color": "ff8f663d"
+  },
+  {
+    "blocks": [
+      "blockus:potted_white_oak_sapling"
+    ],
+    "color": "ff7c4535"
+  }
+]

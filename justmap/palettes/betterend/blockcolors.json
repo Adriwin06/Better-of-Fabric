@@ -1,0 +1,549 @@
+[
+  {
+    "blocks": [
+      "betterend:flavolite"
+    ],
+    "color": "ffe3cc9f"
+  },
+  {
+    "blocks": [
+      "betterend:ender_ore"
+    ],
+    "color": "ffa7c48e"
+  },
+  {
+    "blocks": [
+      "betterend:bulb_moss[facing\u003dwest]",
+      "betterend:bulb_moss[facing\u003deast]",
+      "betterend:bulb_moss[facing\u003dnorth]",
+      "betterend:bulb_moss[facing\u003dsouth]"
+    ],
+    "color": "ffa8531b"
+  },
+  {
+    "blocks": [
+      "betterend:amber_moss"
+    ],
+    "color": "ff904719"
+  },
+  {
+    "blocks": [
+      "betterend:helix_tree_bark[axis\u003dy]"
+    ],
+    "color": "ff5b534f"
+  },
+  {
+    "blocks": [
+      "betterend:helix_tree_leaves[color\u003d7]"
+    ],
+    "color": "ffa55106"
+  },
+  {
+    "blocks": [
+      "betterend:helix_tree_leaves[color\u003d4]"
+    ],
+    "color": "ffa53f06"
+  },
+  {
+    "blocks": [
+      "betterend:helix_tree_leaves[color\u003d5]"
+    ],
+    "color": "ffa54506"
+  },
+  {
+    "blocks": [
+      "betterend:helix_tree_leaves[color\u003d6]"
+    ],
+    "color": "ffa54b06"
+  },
+  {
+    "blocks": [
+      "betterend:amber_grass"
+    ],
+    "color": "ffa96115"
+  },
+  {
+    "blocks": [
+      "betterend:helix_tree_leaves[color\u003d3]"
+    ],
+    "color": "ffa53a06"
+  },
+  {
+    "blocks": [
+      "betterend:lanceleaf[rotation\u003d1,shape\u003dtop]",
+      "betterend:lanceleaf[rotation\u003d0,shape\u003dtop]",
+      "betterend:lanceleaf[rotation\u003d2,shape\u003dtop]",
+      "betterend:lanceleaf[rotation\u003d3,shape\u003dtop]"
+    ],
+    "color": "ffa9561d"
+  },
+  {
+    "blocks": [
+      "betterend:glowing_pillar_leaves[facing\u003deast]",
+      "betterend:glowing_pillar_leaves[facing\u003dnorth]",
+      "betterend:glowing_pillar_leaves[facing\u003dsouth]",
+      "betterend:glowing_pillar_leaves[facing\u003dwest]",
+      "betterend:glowing_pillar_leaves[facing\u003dup]"
+    ],
+    "color": "fffd9443"
+  },
+  {
+    "blocks": [
+      "betterend:flavolite_bricks_stairs[facing\u003deast,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dwest,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dsouth,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dwest,half\u003dbottom,shape\u003douter_right,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_stairs[facing\u003dwest,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_wall[east\u003dnone,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,west\u003dlow]",
+      "betterend:flavolite_bricks_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_stairs[facing\u003dnorth,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003deast,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_wall[east\u003dtall,north\u003dnone,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,west\u003dtall]",
+      "betterend:flavolite_bricks_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]",
+      "betterend:flavolite_bricks_slab[type\u003ddouble,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_stairs[facing\u003dsouth,half\u003dbottom,shape\u003douter_right,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_wall[east\u003dlow,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]",
+      "betterend:flavolite_bricks_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dnorth,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dnorth,half\u003dbottom,shape\u003douter_right,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_wall[east\u003dlow,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]",
+      "betterend:flavolite_bricks_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003deast,half\u003dbottom,shape\u003douter_right,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_wall[east\u003dnone,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dlow]",
+      "betterend:flavolite_bricks_stairs[facing\u003deast,half\u003dbottom,shape\u003douter_left,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_wall[east\u003dtall,north\u003dnone,south\u003dnone,up\u003dfalse,waterlogged\u003dfalse,west\u003dtall]",
+      "betterend:flavolite_bricks_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dsouth,half\u003dbottom,shape\u003douter_left,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_wall[east\u003dlow,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]",
+      "betterend:flavolite_bricks_stairs[facing\u003dwest,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks",
+      "betterend:flavolite_bricks_slab[type\u003dbottom,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_slab[type\u003dbottom,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_stairs[facing\u003dsouth,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dwest,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_stairs[facing\u003deast,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dwest,half\u003dbottom,shape\u003douter_left,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_wall[east\u003dnone,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]",
+      "betterend:flavolite_bricks_wall[east\u003dtall,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dtall]",
+      "betterend:flavolite_bricks_stairs[facing\u003dwest,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003deast,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_stairs[facing\u003deast,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003deast,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]",
+      "betterend:flavolite_bricks_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dtrue]",
+      "betterend:flavolite_bricks_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]"
+    ],
+    "color": "ffe2cc9f"
+  },
+  {
+    "blocks": [
+      "betterend:violecite_stairs[facing\u003dwest,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dnorth,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003deast,half\u003dbottom,shape\u003douter_left,waterlogged\u003dtrue]",
+      "betterend:violecite_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dsouth,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dtrue]",
+      "betterend:violecite_stairs[facing\u003deast,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003deast,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dnorth,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dtrue]",
+      "betterend:violecite_stairs[facing\u003dwest,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dtrue]",
+      "betterend:violecite_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dsouth,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dnorth,half\u003dbottom,shape\u003douter_right,waterlogged\u003dtrue]",
+      "betterend:violecite_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dtrue]",
+      "betterend:violecite_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dtrue]",
+      "betterend:violecite_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dsouth,half\u003dbottom,shape\u003douter_right,waterlogged\u003dtrue]",
+      "betterend:violecite_stairs[facing\u003deast,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003deast,half\u003dbottom,shape\u003douter_right,waterlogged\u003dtrue]",
+      "betterend:violecite_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dwest,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]",
+      "betterend:violecite",
+      "betterend:violecite_stairs[facing\u003dwest,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003dwest,half\u003dbottom,shape\u003douter_right,waterlogged\u003dtrue]",
+      "betterend:violecite_slab[type\u003dbottom,waterlogged\u003dfalse]",
+      "betterend:violecite_stairs[facing\u003deast,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]",
+      "betterend:violecite_slab[type\u003dbottom,waterlogged\u003dtrue]",
+      "betterend:violecite_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dtrue]",
+      "betterend:violecite_stairs[facing\u003dwest,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]"
+    ],
+    "color": "ff382c3f"
+  },
+  {
+    "blocks": [
+      "betterend:flavolite_polished",
+      "betterend:eternal_pedestal[active\u003dtrue,has_item\u003dtrue,has_light\u003dtrue,state\u003ddefault]",
+      "betterend:flavolite_tiles",
+      "betterend:eternal_pedestal[active\u003dfalse,has_item\u003dtrue,has_light\u003dfalse,state\u003ddefault]",
+      "betterend:eternal_pedestal[active\u003dfalse,has_item\u003dfalse,has_light\u003dfalse,state\u003ddefault]"
+    ],
+    "color": "ffe0ca9d"
+  },
+  {
+    "blocks": [
+      "betterend:flavolite_runed_eternal[active\u003dfalse]"
+    ],
+    "color": "ffe0c292"
+  },
+  {
+    "blocks": [
+      "betterend:flavolite_pillar[axis\u003dz]",
+      "betterend:flavolite_pillar[axis\u003dx]"
+    ],
+    "color": "ffe1cb9e"
+  },
+  {
+    "blocks": [
+      "betterend:helix_tree_leaves[color\u003d2]"
+    ],
+    "color": "ffa53406"
+  },
+  {
+    "blocks": [
+      "betterend:crystal_moss"
+    ],
+    "color": "ff398c9c"
+  },
+  {
+    "blocks": [
+      "betterend:crystal_grass"
+    ],
+    "color": "ff86bfb6"
+  },
+  {
+    "blocks": [
+      "betterend:endstone_dust"
+    ],
+    "color": "ffd4d99b"
+  },
+  {
+    "blocks": [
+      "betterend:charnia_orange"
+    ],
+    "color": "ffaf6f3f"
+  },
+  {
+    "blocks": [
+      "betterend:charnia_red"
+    ],
+    "color": "ffaf3f4b"
+  },
+  {
+    "blocks": [
+      "betterend:aurora_crystal"
+    ],
+    "color": "c4b054d7"
+  },
+  {
+    "blocks": [
+      "betterend:cave_moss"
+    ],
+    "color": "ffbf2b5a"
+  },
+  {
+    "blocks": [
+      "betterend:cave_grass"
+    ],
+    "color": "ff886ba9"
+  },
+  {
+    "blocks": [
+      "betterend:cave_bush"
+    ],
+    "color": "ff7d285d"
+  },
+  {
+    "blocks": [
+      "betterend:amber_ore"
+    ],
+    "color": "ffcda359"
+  },
+  {
+    "blocks": [
+      "betterend:ivis_moss[facing\u003dsouth]",
+      "betterend:ivis_moss[facing\u003dwest]",
+      "betterend:ivis_moss[facing\u003dnorth]",
+      "betterend:ivis_moss[facing\u003deast]"
+    ],
+    "color": "ff742393"
+  },
+  {
+    "blocks": [
+      "betterend:emerald_ice"
+    ],
+    "color": "be0798aa"
+  },
+  {
+    "blocks": [
+      "betterend:dense_snow"
+    ],
+    "color": "ffd3fafa"
+  },
+  {
+    "blocks": [
+      "betterend:dense_emerald_ice"
+    ],
+    "color": "ff07a0a7"
+  },
+  {
+    "blocks": [
+      "betterend:ancient_emerald_ice"
+    ],
+    "color": "ff039392"
+  },
+  {
+    "blocks": [
+      "betterend:purple_polypore[facing\u003dwest]",
+      "betterend:purple_polypore[facing\u003deast]",
+      "betterend:purple_polypore[facing\u003dnorth]",
+      "betterend:purple_polypore[facing\u003dsouth]"
+    ],
+    "color": "ff9149ad"
+  },
+  {
+    "blocks": [
+      "betterend:shadow_grass"
+    ],
+    "color": "ff181818"
+  },
+  {
+    "blocks": [
+      "betterend:dragon_tree_leaves[distance\u003d2,persistent\u003dfalse]",
+      "betterend:dragon_tree_leaves[distance\u003d5,persistent\u003dfalse]",
+      "betterend:dragon_tree_leaves[distance\u003d6,persistent\u003dfalse]",
+      "betterend:dragon_tree_leaves[distance\u003d4,persistent\u003dfalse]",
+      "betterend:dragon_tree_leaves[distance\u003d3,persistent\u003dfalse]"
+    ],
+    "color": "ff412e52"
+  },
+  {
+    "blocks": [
+      "betterend:dragon_tree_bark[axis\u003dy]"
+    ],
+    "color": "ff17141c"
+  },
+  {
+    "blocks": [
+      "betterend:twisted_moss[facing\u003dnorth]",
+      "betterend:twisted_moss[facing\u003dsouth]",
+      "betterend:twisted_moss[facing\u003deast]",
+      "betterend:twisted_moss[facing\u003dwest]"
+    ],
+    "color": "ff7f6796"
+  },
+  {
+    "blocks": [
+      "betterend:pink_moss"
+    ],
+    "color": "ff915185"
+  },
+  {
+    "blocks": [
+      "betterend:tenanea_outer_leaves[facing\u003dwest]",
+      "betterend:tenanea_outer_leaves[facing\u003deast]",
+      "betterend:tenanea_outer_leaves[facing\u003dnorth]",
+      "betterend:tenanea_outer_leaves[facing\u003dsouth]",
+      "betterend:tenanea_outer_leaves[facing\u003dup]"
+    ],
+    "color": "ffca52b3"
+  },
+  {
+    "blocks": [
+      "betterend:tenanea_leaves[distance\u003d4,persistent\u003dfalse]",
+      "betterend:tenanea_leaves[distance\u003d6,persistent\u003dfalse]",
+      "betterend:tenanea_leaves[distance\u003d1,persistent\u003dfalse]",
+      "betterend:tenanea_leaves[distance\u003d2,persistent\u003dfalse]",
+      "betterend:tenanea_leaves[distance\u003d3,persistent\u003dtrue]",
+      "betterend:tenanea_leaves[distance\u003d5,persistent\u003dfalse]",
+      "betterend:tenanea_leaves[distance\u003d3,persistent\u003dfalse]",
+      "betterend:tenanea_leaves[distance\u003d7,persistent\u003dtrue]"
+    ],
+    "color": "ffbe46a6"
+  },
+  {
+    "blocks": [
+      "betterend:tenanea_stripped_log[axis\u003dy]"
+    ],
+    "color": "ff9e558f"
+  },
+  {
+    "blocks": [
+      "betterend:bushy_grass"
+    ],
+    "color": "ff7f6198"
+  },
+  {
+    "blocks": [
+      "betterend:tenanea_bark[axis\u003dy]"
+    ],
+    "color": "ff947a5b"
+  },
+  {
+    "blocks": [
+      "betterend:tenanea_fence[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "betterend:tenanea_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:tenanea_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:tenanea_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]",
+      "betterend:tenanea_planks",
+      "betterend:tenanea_slab[type\u003dbottom,waterlogged\u003dfalse]"
+    ],
+    "color": "ffa05792"
+  },
+  {
+    "blocks": [
+      "betterend:bulb_lantern[is_floor\u003dtrue,waterlogged\u003dfalse]"
+    ],
+    "color": "ff6c676b"
+  },
+  {
+    "blocks": [
+      "betterend:sulphuric_rock"
+    ],
+    "color": "ff5d4a49"
+  },
+  {
+    "blocks": [
+      "betterend:brimstone[active\u003dfalse]"
+    ],
+    "color": "ffa8811f"
+  },
+  {
+    "blocks": [
+      "betterend:brimstone[active\u003dtrue]"
+    ],
+    "color": "ffbea627"
+  },
+  {
+    "blocks": [
+      "betterend:sulphur_crystal[age\u003d1,facing\u003dnorth,waterlogged\u003dtrue]",
+      "betterend:sulphur_crystal[age\u003d1,facing\u003deast,waterlogged\u003dtrue]",
+      "betterend:sulphur_crystal[age\u003d1,facing\u003dsouth,waterlogged\u003dtrue]",
+      "betterend:sulphur_crystal[age\u003d1,facing\u003dwest,waterlogged\u003dtrue]",
+      "betterend:sulphur_crystal[age\u003d1,facing\u003dup,waterlogged\u003dtrue]"
+    ],
+    "color": "ffbda120"
+  },
+  {
+    "blocks": [
+      "betterend:charnia_green"
+    ],
+    "color": "ff5d6942"
+  },
+  {
+    "blocks": [
+      "betterend:hydrothermal_vent[active\u003dtrue,waterlogged\u003dtrue]",
+      "betterend:hydrothermal_vent[active\u003dfalse,waterlogged\u003dfalse]",
+      "betterend:hydrothermal_vent[active\u003dfalse,waterlogged\u003dtrue]"
+    ],
+    "color": "ff362b2b"
+  },
+  {
+    "blocks": [
+      "betterend:tube_worm[facing\u003dwest]",
+      "betterend:tube_worm[facing\u003dsouth]",
+      "betterend:tube_worm[facing\u003deast]"
+    ],
+    "color": "ff987b75"
+  },
+  {
+    "blocks": [
+      "betterend:sulphur_crystal[age\u003d0,facing\u003dnorth,waterlogged\u003dtrue]",
+      "betterend:sulphur_crystal[age\u003d0,facing\u003dup,waterlogged\u003dtrue]",
+      "betterend:sulphur_crystal[age\u003d0,facing\u003dsouth,waterlogged\u003dtrue]",
+      "betterend:sulphur_crystal[age\u003d0,facing\u003dwest,waterlogged\u003dtrue]",
+      "betterend:sulphur_crystal[age\u003d0,facing\u003deast,waterlogged\u003dtrue]"
+    ],
+    "color": "ffb99e20"
+  },
+  {
+    "blocks": [
+      "betterend:sulphur_crystal[age\u003d2,facing\u003dwest,waterlogged\u003dtrue]",
+      "betterend:sulphur_crystal[age\u003d2,facing\u003dnorth,waterlogged\u003dtrue]",
+      "betterend:sulphur_crystal[age\u003d2,facing\u003dsouth,waterlogged\u003dtrue]",
+      "betterend:sulphur_crystal[age\u003d2,facing\u003deast,waterlogged\u003dtrue]",
+      "betterend:sulphur_crystal[age\u003d2,facing\u003dup,waterlogged\u003dtrue]"
+    ],
+    "color": "ffbca121"
+  },
+  {
+    "blocks": [
+      "betterend:chorus_nylium"
+    ],
+    "color": "ff7c2e7c"
+  },
+  {
+    "blocks": [
+      "betterend:pythadendron_leaves[distance\u003d3,persistent\u003dfalse]",
+      "betterend:pythadendron_leaves[distance\u003d1,persistent\u003dfalse]",
+      "betterend:pythadendron_leaves[distance\u003d6,persistent\u003dfalse]",
+      "betterend:pythadendron_leaves[distance\u003d4,persistent\u003dfalse]",
+      "betterend:pythadendron_leaves[distance\u003d2,persistent\u003dfalse]",
+      "betterend:pythadendron_leaves[distance\u003d5,persistent\u003dfalse]",
+      "betterend:pythadendron_leaves[distance\u003d7,persistent\u003dtrue]"
+    ],
+    "color": "ff8a318a"
+  },
+  {
+    "blocks": [
+      "betterend:chorus_grass"
+    ],
+    "color": "ff853085"
+  },
+  {
+    "blocks": [
+      "betterend:tail_moss[facing\u003deast]",
+      "betterend:tail_moss[facing\u003dsouth]",
+      "betterend:tail_moss[facing\u003dnorth]",
+      "betterend:tail_moss[facing\u003dwest]"
+    ],
+    "color": "ff1f1f1f"
+  },
+  {
+    "blocks": [
+      "betterend:charnia_purple"
+    ],
+    "color": "ffa43faf"
+  },
+  {
+    "blocks": [
+      "betterend:pythadendron_bark[axis\u003dy]"
+    ],
+    "color": "ff342736"
+  },
+  {
+    "blocks": [
+      "betterend:violecite_bricks_wall[east\u003dlow,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]",
+      "betterend:violecite_bricks_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dlow]"
+    ],
+    "color": "ff3f3348"
+  },
+  {
+    "blocks": [
+      "betterend:violecite_polished"
+    ],
+    "color": "ff403348"
+  },
+  {
+    "blocks": [
+      "betterend:flavolite_runed_eternal[active\u003dtrue]"
+    ],
+    "color": "ffe9b1a8"
+  }
+]

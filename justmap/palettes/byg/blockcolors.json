@@ -1,0 +1,522 @@
+[
+  {
+    "blocks": [
+      "byg:blue_spruce_leaves[distance\u003d2,persistent\u003dfalse]",
+      "byg:blue_spruce_leaves[distance\u003d4,persistent\u003dfalse]",
+      "byg:blue_spruce_leaves[distance\u003d5,persistent\u003dfalse]",
+      "byg:blue_spruce_leaves[distance\u003d3,persistent\u003dfalse]",
+      "byg:blue_spruce_leaves[distance\u003d1,persistent\u003dfalse]",
+      "byg:blue_spruce_leaves[distance\u003d6,persistent\u003dfalse]",
+      "byg:blue_spruce_leaves[distance\u003d7,persistent\u003dfalse]"
+    ],
+    "color": "ff43649e"
+  },
+  {
+    "blocks": [
+      "byg:cika_leaves[distance\u003d3,persistent\u003dfalse]",
+      "byg:cika_leaves[distance\u003d1,persistent\u003dfalse]",
+      "byg:cika_leaves[distance\u003d7,persistent\u003dfalse]",
+      "byg:cika_leaves[distance\u003d4,persistent\u003dfalse]",
+      "byg:cika_leaves[distance\u003d6,persistent\u003dfalse]",
+      "byg:cika_leaves[distance\u003d2,persistent\u003dfalse]",
+      "byg:cika_leaves[distance\u003d5,persistent\u003dfalse]"
+    ],
+    "color": "ff85773e"
+  },
+  {
+    "blocks": [
+      "byg:iris"
+    ],
+    "color": "ff8457ad"
+  },
+  {
+    "blocks": [
+      "byg:crocus"
+    ],
+    "color": "ffbe7de3"
+  },
+  {
+    "blocks": [
+      "byg:blueberry_bush[age\u003d3]"
+    ],
+    "color": "ff2d5f47"
+  },
+  {
+    "blocks": [
+      "byg:winter_succulent"
+    ],
+    "color": "ff2b5b35"
+  },
+  {
+    "blocks": [
+      "byg:black_puff"
+    ],
+    "color": "ff8a7d62"
+  },
+  {
+    "blocks": [
+      "byg:pink_anemone",
+      "byg:white_anemone"
+    ],
+    "color": "ffffffff"
+  },
+  {
+    "blocks": [
+      "byg:aspen_leaves[distance\u003d7,persistent\u003dfalse]",
+      "byg:aspen_leaves[distance\u003d3,persistent\u003dfalse]",
+      "byg:aspen_leaves[distance\u003d4,persistent\u003dfalse]",
+      "byg:aspen_leaves[distance\u003d2,persistent\u003dfalse]",
+      "byg:aspen_leaves[distance\u003d1,persistent\u003dfalse]"
+    ],
+    "color": "ffa29409"
+  },
+  {
+    "blocks": [
+      "byg:overgrown_dacite[snowy\u003dfalse]"
+    ],
+    "color": "ff2c4423"
+  },
+  {
+    "blocks": [
+      "byg:pine_leaves[distance\u003d4,persistent\u003dfalse]",
+      "byg:pine_leaves[distance\u003d7,persistent\u003dfalse]",
+      "byg:pine_leaves[distance\u003d3,persistent\u003dfalse]",
+      "byg:pine_leaves[distance\u003d1,persistent\u003dfalse]",
+      "byg:pine_leaves[distance\u003d6,persistent\u003dfalse]",
+      "byg:pine_leaves[distance\u003d5,persistent\u003dfalse]",
+      "byg:pine_leaves[distance\u003d2,persistent\u003dfalse]"
+    ],
+    "color": "ff556721"
+  },
+  {
+    "blocks": [
+      "byg:podzol_dacite[snowy\u003dfalse]"
+    ],
+    "color": "ff5c3f18"
+  },
+  {
+    "blocks": [
+      "byg:dacite"
+    ],
+    "color": "ffcdc4bc"
+  },
+  {
+    "blocks": [
+      "byg:rocky_stone"
+    ],
+    "color": "ff7d7d7d"
+  },
+  {
+    "blocks": [
+      "byg:fir_leaves[distance\u003d4,persistent\u003dfalse]",
+      "byg:fir_leaves[distance\u003d5,persistent\u003dfalse]",
+      "byg:fir_leaves[distance\u003d2,persistent\u003dfalse]",
+      "byg:fir_leaves[distance\u003d3,persistent\u003dfalse]"
+    ],
+    "color": "ff27683a"
+  },
+  {
+    "blocks": [
+      "byg:quartz_crystal"
+    ],
+    "color": "ffbdb0a4"
+  },
+  {
+    "blocks": [
+      "byg:quartzite_sand"
+    ],
+    "color": "ffe1e0de"
+  },
+  {
+    "blocks": [
+      "byg:hanging_bones"
+    ],
+    "color": "ffc6c2b1"
+  },
+  {
+    "blocks": [
+      "byg:raw_quartz_block"
+    ],
+    "color": "ffc6c2b9"
+  },
+  {
+    "blocks": [
+      "byg:magmatic_stone"
+    ],
+    "color": "ff39221c"
+  },
+  {
+    "blocks": [
+      "byg:scorched_grass"
+    ],
+    "color": "ff625d69"
+  },
+  {
+    "blocks": [
+      "byg:scorched_bush"
+    ],
+    "color": "ff46414c"
+  },
+  {
+    "blocks": [
+      "byg:overgrown_crimson_blackstone[snowy\u003dfalse]"
+    ],
+    "color": "ff831f1f"
+  },
+  {
+    "blocks": [
+      "byg:soapstone"
+    ],
+    "color": "ff383838"
+  },
+  {
+    "blocks": [
+      "byg:withering_oak_leaves[distance\u003d1,persistent\u003dfalse]"
+    ],
+    "color": "ff50493e"
+  },
+  {
+    "blocks": [
+      "byg:withering_oak_log[axis\u003dy]"
+    ],
+    "color": "ff534f4c"
+  },
+  {
+    "blocks": [
+      "byg:crimson_berry_bush[age\u003d3]"
+    ],
+    "color": "ff7c1317"
+  },
+  {
+    "blocks": [
+      "byg:whaling_grass[waterlogged\u003dtrue]"
+    ],
+    "color": "ff49219c"
+  },
+  {
+    "blocks": [
+      "byg:overgrown_netherrack[snowy\u003dfalse]"
+    ],
+    "color": "ff535b3f"
+  },
+  {
+    "blocks": [
+      "byg:weeping_milkcap_mushroom_block[down\u003dtrue,east\u003dtrue,north\u003dtrue,south\u003dtrue,up\u003dtrue,west\u003dtrue]"
+    ],
+    "color": "ff8a5651"
+  },
+  {
+    "blocks": [
+      "byg:brown_mushroom_stem[down\u003dtrue,east\u003dtrue,north\u003dtrue,south\u003dtrue,up\u003dtrue,west\u003dtrue]"
+    ],
+    "color": "ff4a3624"
+  },
+  {
+    "blocks": [
+      "byg:wood_blewit_mushroom_block[down\u003dtrue,east\u003dtrue,north\u003dtrue,south\u003dtrue,up\u003dtrue,west\u003dtrue]"
+    ],
+    "color": "ff3f2c1b"
+  },
+  {
+    "blocks": [
+      "byg:black_puff_mushroom_block[down\u003dtrue,east\u003dtrue,north\u003dtrue,south\u003dtrue,up\u003dtrue,west\u003dtrue]"
+    ],
+    "color": "ffdcd9d6"
+  },
+  {
+    "blocks": [
+      "byg:green_mushroom_block[down\u003dtrue,east\u003dtrue,north\u003dtrue,south\u003dtrue,up\u003dtrue,west\u003dtrue]"
+    ],
+    "color": "ff61914a"
+  },
+  {
+    "blocks": [
+      "byg:lament_leaves[distance\u003d3,persistent\u003dfalse]",
+      "byg:lament_leaves[distance\u003d1,persistent\u003dfalse]",
+      "byg:lament_leaves[distance\u003d6,persistent\u003dfalse]",
+      "byg:lament_leaves[distance\u003d7,persistent\u003dfalse]",
+      "byg:lament_leaves[distance\u003d2,persistent\u003dfalse]",
+      "byg:lament_leaves[distance\u003d4,persistent\u003dfalse]",
+      "byg:lament_leaves[distance\u003d5,persistent\u003dfalse]"
+    ],
+    "color": "ff763552"
+  },
+  {
+    "blocks": [
+      "byg:lament_log[axis\u003dy]"
+    ],
+    "color": "ff48498b"
+  },
+  {
+    "blocks": [
+      "byg:lament_sprouts"
+    ],
+    "color": "ff93266d"
+  },
+  {
+    "blocks": [
+      "byg:lament_vine[age\u003d23]"
+    ],
+    "color": "ff392859"
+  },
+  {
+    "blocks": [
+      "byg:lament_vine_plant"
+    ],
+    "color": "ff3c2b5c"
+  },
+  {
+    "blocks": [
+      "byg:black_sandstone"
+    ],
+    "color": "ff5a5a5a"
+  },
+  {
+    "blocks": [
+      "byg:black_sand"
+    ],
+    "color": "ff565656"
+  },
+  {
+    "blocks": [
+      "byg:leaf_pile"
+    ],
+    "color": "ff36471c"
+  },
+  {
+    "blocks": [
+      "byg:pink_cherry_leaves[distance\u003d1,persistent\u003dfalse]",
+      "byg:pink_cherry_leaves[distance\u003d6,persistent\u003dfalse]",
+      "byg:pink_cherry_leaves[distance\u003d5,persistent\u003dfalse]",
+      "byg:pink_cherry_leaves[distance\u003d2,persistent\u003dfalse]",
+      "byg:pink_cherry_leaves[distance\u003d7,persistent\u003dfalse]",
+      "byg:pink_cherry_leaves[distance\u003d4,persistent\u003dfalse]",
+      "byg:pink_cherry_leaves[distance\u003d3,persistent\u003dfalse]"
+    ],
+    "color": "ffd99890"
+  },
+  {
+    "blocks": [
+      "byg:white_cherry_leaves[distance\u003d1,persistent\u003dfalse]",
+      "byg:white_cherry_leaves[distance\u003d5,persistent\u003dfalse]",
+      "byg:white_cherry_leaves[distance\u003d4,persistent\u003dfalse]",
+      "byg:white_cherry_leaves[distance\u003d2,persistent\u003dfalse]",
+      "byg:white_cherry_leaves[distance\u003d7,persistent\u003dfalse]",
+      "byg:white_cherry_leaves[distance\u003d6,persistent\u003dfalse]",
+      "byg:white_cherry_leaves[distance\u003d3,persistent\u003dfalse]"
+    ],
+    "color": "ffc4b4bb"
+  },
+  {
+    "blocks": [
+      "byg:clover_patch"
+    ],
+    "color": "fffcedd6"
+  },
+  {
+    "blocks": [
+      "byg:horseweed"
+    ],
+    "color": "ff6b7925"
+  },
+  {
+    "blocks": [
+      "byg:flower_patch"
+    ],
+    "color": "ff3d7b23"
+  },
+  {
+    "blocks": [
+      "byg:meadow_grass_block[snowy\u003dfalse]"
+    ],
+    "color": "ff5f6232"
+  },
+  {
+    "blocks": [
+      "byg:meadow_dirt"
+    ],
+    "color": "ff523d28"
+  },
+  {
+    "blocks": [
+      "byg:ether_phylium[snowy\u003dfalse]"
+    ],
+    "color": "ff7c1e5d"
+  },
+  {
+    "blocks": [
+      "byg:purpur_stone"
+    ],
+    "color": "ff9b5a91"
+  },
+  {
+    "blocks": [
+      "byg:ether_leaves[distance\u003d1,persistent\u003dfalse]",
+      "byg:ether_leaves[distance\u003d7,persistent\u003dfalse]",
+      "byg:ether_leaves[distance\u003d4,persistent\u003dfalse]",
+      "byg:ether_leaves[distance\u003d3,persistent\u003dfalse]",
+      "byg:ether_leaves[distance\u003d5,persistent\u003dfalse]",
+      "byg:ether_leaves[distance\u003d2,persistent\u003dfalse]",
+      "byg:ether_leaves[distance\u003d6,persistent\u003dfalse]"
+    ],
+    "color": "ff34886b"
+  },
+  {
+    "blocks": [
+      "byg:ether_bush"
+    ],
+    "color": "fa87095e"
+  },
+  {
+    "blocks": [
+      "byg:ether_grass"
+    ],
+    "color": "ff9d1a71"
+  },
+  {
+    "blocks": [
+      "byg:thereal_bellflower"
+    ],
+    "color": "ff8dac97"
+  },
+  {
+    "blocks": [
+      "byg:shulkren_phylium[snowy\u003dfalse]"
+    ],
+    "color": "ff1e8752"
+  },
+  {
+    "blocks": [
+      "byg:shulkren_fungus"
+    ],
+    "color": "ff833596"
+  },
+  {
+    "blocks": [
+      "byg:ivis_phylium[snowy\u003dfalse]"
+    ],
+    "color": "ff641e87"
+  },
+  {
+    "blocks": [
+      "byg:bulbis_oddity"
+    ],
+    "color": "ff77a1c0"
+  },
+  {
+    "blocks": [
+      "byg:purple_bulbis_shell[down\u003dtrue,east\u003dtrue,north\u003dtrue,south\u003dtrue,up\u003dtrue,west\u003dtrue]"
+    ],
+    "color": "8d632a92"
+  },
+  {
+    "blocks": [
+      "byg:shulkren_moss_blanket"
+    ],
+    "color": "ff0c8e4b"
+  },
+  {
+    "blocks": [
+      "byg:shulkren_wart_block"
+    ],
+    "color": "ff5a1983"
+  },
+  {
+    "blocks": [
+      "byg:purple_shroomlight"
+    ],
+    "color": "ffa14ced"
+  },
+  {
+    "blocks": [
+      "byg:bulbis_shell[down\u003dtrue,east\u003dtrue,north\u003dtrue,south\u003dtrue,up\u003dtrue,west\u003dtrue]"
+    ],
+    "color": "8d2a6a92"
+  },
+  {
+    "blocks": [
+      "byg:bulbis_wood[axis\u003dy]",
+      "byg:bulbis_stem[axis\u003dx]",
+      "byg:bulbis_stem[axis\u003dz]"
+    ],
+    "color": "ffc9c6bb"
+  },
+  {
+    "blocks": [
+      "byg:ivis_sprout"
+    ],
+    "color": "ff70208d"
+  },
+  {
+    "blocks": [
+      "byg:purple_bulbis_oddity"
+    ],
+    "color": "ffa277c0"
+  },
+  {
+    "blocks": [
+      "byg:bulbis_stem[axis\u003dy]"
+    ],
+    "color": "ffad82c0"
+  },
+  {
+    "blocks": [
+      "byg:ether_stone"
+    ],
+    "color": "ff708080"
+  },
+  {
+    "blocks": [
+      "byg:lignite_ore"
+    ],
+    "color": "ff666d6b"
+  },
+  {
+    "blocks": [
+      "byg:ether_soil"
+    ],
+    "color": "ff7f4c5c"
+  },
+  {
+    "blocks": [
+      "byg:cryptic_stone"
+    ],
+    "color": "ffac7a61"
+  },
+  {
+    "blocks": [
+      "byg:cryptic_magma_block"
+    ],
+    "color": "ffb7664c"
+  },
+  {
+    "blocks": [
+      "byg:cryptic_fire"
+    ],
+    "color": "ffd43656"
+  },
+  {
+    "blocks": [
+      "byg:vermilion_sculk[snowy\u003dfalse]"
+    ],
+    "color": "ff831f41"
+  },
+  {
+    "blocks": [
+      "byg:vermilion_sculk_growth"
+    ],
+    "color": "ff6c2336"
+  },
+  {
+    "blocks": [
+      "byg:therium_crystal"
+    ],
+    "color": "e19bc7bc"
+  },
+  {
+    "blocks": [
+      "byg:ether_log[axis\u003dy]"
+    ],
+    "color": "ff547869"
+  }
+]

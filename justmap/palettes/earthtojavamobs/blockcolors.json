@@ -1,0 +1,25 @@
+[
+  {
+    "blocks": [
+      "earthtojavamobs:pink_daisy"
+    ],
+    "color": "ffeda7cb"
+  },
+  {
+    "blocks": [
+      "earthtojavamobs:buttercup"
+    ],
+    "color": "ffffffff"
+  },
+  {
+    "blocks": [
+      "earthtojavamobs:rainbow_bed[facing\u003dsouth,occupied\u003dfalse,part\u003dhead]",
+      "earthtojavamobs:rainbow_bed[facing\u003dwest,occupied\u003dfalse,part\u003dfoot]",
+      "earthtojavamobs:rainbow_bed[facing\u003dnorth,occupied\u003dfalse,part\u003dhead]",
+      "earthtojavamobs:rainbow_bed[facing\u003dwest,occupied\u003dfalse,part\u003dhead]",
+      "earthtojavamobs:rainbow_bed[facing\u003dsouth,occupied\u003dfalse,part\u003dfoot]",
+      "earthtojavamobs:rainbow_bed[facing\u003dnorth,occupied\u003dfalse,part\u003dfoot]"
+    ],
+    "color": "ffa2834f"
+  }
+]

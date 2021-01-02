@@ -1,0 +1,15 @@
+{
+  "minecraft:block/stone": "ff7e7e7e",
+  "allure:block/root": "ff77663f",
+  "minecraft:block/andesite": "ff888889",
+  "allure:block/crate_sealed_spruce_top": "ff493927",
+  "allure:block/crate_sealed_acacia_top": "ff61402b",
+  "minecraft:block/cobblestone": "ff807f80",
+  "allure:block/crate_sealed_jungle_top": "ff594432",
+  "allure:block/biotite_ore": "ffaaad7d",
+  "allure:block/crate_sealed_oak_top": "ff5a4629",
+  "minecraft:block/granite": "ff956756",
+  "minecraft:block/diorite": "ffbdbcbd",
+  "allure:block/crate_sealed_dark_oak_top": "ff382c1e",
+  "allure:block/crate_sealed_birch_top": "ff645941"
+}

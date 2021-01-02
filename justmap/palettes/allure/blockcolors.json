@@ -1,0 +1,74 @@
+[
+  {
+    "blocks": [
+      "allure:stone_speleothem[size\u003dsmall,waterlogged\u003dfalse]"
+    ],
+    "color": "ff7e7e7e"
+  },
+  {
+    "blocks": [
+      "allure:granite_speleothem[size\u003dsmall,waterlogged\u003dfalse]"
+    ],
+    "color": "ff956756"
+  },
+  {
+    "blocks": [
+      "allure:diorite_speleothem[size\u003dsmall,waterlogged\u003dfalse]"
+    ],
+    "color": "ffbdbcbd"
+  },
+  {
+    "blocks": [
+      "allure:andesite_speleothem[size\u003dsmall,waterlogged\u003dfalse]"
+    ],
+    "color": "ff888889"
+  },
+  {
+    "blocks": [
+      "allure:crate_dark_oak[sealed\u003dtrue]"
+    ],
+    "color": "ff382c1e"
+  },
+  {
+    "blocks": [
+      "allure:crate_spruce[sealed\u003dtrue]"
+    ],
+    "color": "ff493927"
+  },
+  {
+    "blocks": [
+      "allure:crate_birch[sealed\u003dtrue]"
+    ],
+    "color": "ff645941"
+  },
+  {
+    "blocks": [
+      "allure:biotite_ore"
+    ],
+    "color": "ffaaad7d"
+  },
+  {
+    "blocks": [
+      "allure:gravestone[facing\u003dwest]"
+    ],
+    "color": "ff807f80"
+  },
+  {
+    "blocks": [
+      "allure:crate_jungle[sealed\u003dtrue]"
+    ],
+    "color": "ff594432"
+  },
+  {
+    "blocks": [
+      "allure:crate_acacia[sealed\u003dtrue]"
+    ],
+    "color": "ff61402b"
+  },
+  {
+    "blocks": [
+      "allure:crate_oak[sealed\u003dtrue]"
+    ],
+    "color": "ff5a4629"
+  }
+]

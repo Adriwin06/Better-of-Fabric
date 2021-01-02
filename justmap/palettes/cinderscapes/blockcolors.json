@@ -1,0 +1,133 @@
+[
+  {
+    "blocks": [
+      "cinderscapes:polypite_rose_quartz[direction\u003dwest]",
+      "cinderscapes:polypite_rose_quartz[direction\u003deast]",
+      "cinderscapes:polypite_rose_quartz[direction\u003ddown]",
+      "cinderscapes:polypite_rose_quartz[direction\u003dsouth]",
+      "cinderscapes:polypite_rose_quartz[direction\u003dnorth]"
+    ],
+    "color": "fffcc8fe"
+  },
+  {
+    "blocks": [
+      "cinderscapes:sulfur_quartz_ore"
+    ],
+    "color": "ff764233"
+  },
+  {
+    "blocks": [
+      "cinderscapes:polypite_sulfur_quartz[direction\u003dsouth]",
+      "cinderscapes:polypite_sulfur_quartz[direction\u003dwest]",
+      "cinderscapes:polypite_sulfur_quartz[direction\u003deast]",
+      "cinderscapes:polypite_sulfur_quartz[direction\u003ddown]",
+      "cinderscapes:polypite_sulfur_quartz[direction\u003dnorth]"
+    ],
+    "color": "ffeee03e"
+  },
+  {
+    "blocks": [
+      "cinderscapes:sulfur_ore"
+    ],
+    "color": "ff6c342a"
+  },
+  {
+    "blocks": [
+      "cinderscapes:polypite_quartz[direction\u003ddown]",
+      "cinderscapes:polypite_quartz[direction\u003dwest]",
+      "cinderscapes:polypite_quartz[direction\u003dnorth]",
+      "cinderscapes:polypite_quartz[direction\u003dsouth]",
+      "cinderscapes:polypite_quartz[direction\u003deast]"
+    ],
+    "color": "ffe2e2e2"
+  },
+  {
+    "blocks": [
+      "cinderscapes:rose_quartz_ore"
+    ],
+    "color": "ff8b484a"
+  },
+  {
+    "blocks": [
+      "cinderscapes:polypite_smoky_quartz[direction\u003dsouth]",
+      "cinderscapes:polypite_smoky_quartz[direction\u003ddown]",
+      "cinderscapes:polypite_smoky_quartz[direction\u003deast]",
+      "cinderscapes:polypite_smoky_quartz[direction\u003dnorth]",
+      "cinderscapes:polypite_smoky_quartz[direction\u003dwest]"
+    ],
+    "color": "ff454546"
+  },
+  {
+    "blocks": [
+      "cinderscapes:smoky_quartz_ore"
+    ],
+    "color": "ff613130"
+  },
+  {
+    "blocks": [
+      "cinderscapes:crystalline_rose_quartz"
+    ],
+    "color": "e7e8babf"
+  },
+  {
+    "blocks": [
+      "cinderscapes:crystalline_sulfur_quartz"
+    ],
+    "color": "e7ddd362"
+  },
+  {
+    "blocks": [
+      "cinderscapes:crystalline_quartz"
+    ],
+    "color": "e7d5d1c9"
+  },
+  {
+    "blocks": [
+      "cinderscapes:crystalline_smoky_quartz"
+    ],
+    "color": "e741382d"
+  },
+  {
+    "blocks": [
+      "cinderscapes:bramble_berry_bush[age\u003d3]"
+    ],
+    "color": "f9391b22"
+  },
+  {
+    "blocks": [
+      "cinderscapes:ash_block",
+      "cinderscapes:ash[layers\u003d1]"
+    ],
+    "color": "ff313131"
+  },
+  {
+    "blocks": [
+      "cinderscapes:scorched_shrub"
+    ],
+    "color": "ff221007"
+  },
+  {
+    "blocks": [
+      "cinderscapes:scorched_sprouts"
+    ],
+    "color": "ff2c1307"
+  },
+  {
+    "blocks": [
+      "cinderscapes:scorched_tendrils"
+    ],
+    "color": "ff35181a"
+  },
+  {
+    "blocks": [
+      "cinderscapes:pyracinth"
+    ],
+    "color": "ff9d521f"
+  },
+  {
+    "blocks": [
+      "cinderscapes:scorched_hyphae[axis\u003dy]"
+    ],
+    "color": "ff2e1f10"
+  }
+]

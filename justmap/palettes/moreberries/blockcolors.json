@@ -1,0 +1,20 @@
+[
+  {
+    "blocks": [
+      "moreberries:blue_berry_bush[age\u003d3]"
+    ],
+    "color": "ff32621b"
+  },
+  {
+    "blocks": [
+      "moreberries:black_berry_bush[age\u003d3]"
+    ],
+    "color": "ff43601a"
+  },
+  {
+    "blocks": [
+      "moreberries:yellow_berry_bush[age\u003d3]"
+    ],
+    "color": "ff3c5f24"
+  }
+]

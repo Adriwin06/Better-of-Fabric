@@ -1,0 +1,150 @@
+[
+  {
+    "blocks": [
+      "terrestria:basalt"
+    ],
+    "color": "ff2c2c2e"
+  },
+  {
+    "blocks": [
+      "terrestria:hemlock_leaves[distance\u003d3,persistent\u003dfalse]",
+      "terrestria:hemlock_leaves[distance\u003d4,persistent\u003dfalse]",
+      "terrestria:hemlock_leaves[distance\u003d6,persistent\u003dfalse]",
+      "terrestria:hemlock_leaves[distance\u003d2,persistent\u003dfalse]",
+      "terrestria:hemlock_leaves[distance\u003d5,persistent\u003dfalse]"
+    ],
+    "color": "ff364c1d"
+  },
+  {
+    "blocks": [
+      "terrestria:hemlock_leaves[distance\u003d8,persistent\u003dfalse]",
+      "terrestria:hemlock_leaves[distance\u003d7,persistent\u003dfalse]",
+      "terrestria:hemlock_leaves[distance\u003d4,persistent\u003dfalse]",
+      "terrestria:hemlock_leaves[distance\u003d6,persistent\u003dfalse]",
+      "terrestria:hemlock_leaves[distance\u003d5,persistent\u003dfalse]"
+    ],
+    "color": "ff364c1c"
+  },
+  {
+    "blocks": [
+      "terrestria:hemlock_leaves[distance\u003d7,persistent\u003dfalse]",
+      "terrestria:hemlock_leaves[distance\u003d9,persistent\u003dfalse]",
+      "terrestria:hemlock_leaves[distance\u003d10,persistent\u003dfalse]"
+    ],
+    "color": "ff3b5a1f"
+  },
+  {
+    "blocks": [
+      "terrestria:hemlock_leaves[distance\u003d11,persistent\u003dfalse]",
+      "terrestria:hemlock_leaves[distance\u003d1,persistent\u003dfalse]"
+    ],
+    "color": "ff385a22"
+  },
+  {
+    "blocks": [
+      "terrestria:redwood_leaves[distance\u003d3,persistent\u003dfalse]"
+    ],
+    "color": "ff2f4b2c"
+  },
+  {
+    "blocks": [
+      "terrestria:redwood_leaves[distance\u003d2,persistent\u003dfalse]"
+    ],
+    "color": "ff2f4b2b"
+  },
+  {
+    "blocks": [
+      "terrestria:redwood_leaves[distance\u003d1,persistent\u003dfalse]"
+    ],
+    "color": "ff304b29"
+  },
+  {
+    "blocks": [
+      "terrestria:redwood_leaves[distance\u003d7,persistent\u003dfalse]",
+      "terrestria:redwood_leaves[distance\u003d4,persistent\u003dfalse]",
+      "terrestria:redwood_leaves[distance\u003d6,persistent\u003dfalse]",
+      "terrestria:redwood_leaves[distance\u003d8,persistent\u003dfalse]",
+      "terrestria:redwood_leaves[distance\u003d5,persistent\u003dfalse]",
+      "terrestria:redwood_leaves[distance\u003d9,persistent\u003dfalse]"
+    ],
+    "color": "ff2c4938"
+  },
+  {
+    "blocks": [
+      "terrestria:japanese_maple_leaves[distance\u003d5,persistent\u003dfalse]",
+      "terrestria:japanese_maple_leaves[distance\u003d2,persistent\u003dfalse]",
+      "terrestria:japanese_maple_leaves[distance\u003d6,persistent\u003dfalse]",
+      "terrestria:japanese_maple_leaves[distance\u003d3,persistent\u003dfalse]",
+      "terrestria:japanese_maple_leaves[distance\u003d4,persistent\u003dfalse]",
+      "terrestria:japanese_maple_leaves[distance\u003d7,persistent\u003dfalse]"
+    ],
+    "color": "ff711226"
+  },
+  {
+    "blocks": [
+      "terrestria:dark_japanese_maple_leaves[distance\u003d5,persistent\u003dfalse]",
+      "terrestria:dark_japanese_maple_leaves[distance\u003d2,persistent\u003dfalse]",
+      "terrestria:dark_japanese_maple_leaves[distance\u003d4,persistent\u003dfalse]",
+      "terrestria:dark_japanese_maple_leaves[distance\u003d6,persistent\u003dfalse]",
+      "terrestria:dark_japanese_maple_leaves[distance\u003d3,persistent\u003dfalse]",
+      "terrestria:dark_japanese_maple_leaves[distance\u003d7,persistent\u003dfalse]"
+    ],
+    "color": "ff3e0f23"
+  },
+  {
+    "blocks": [
+      "terrestria:redwood_leaves[distance\u003d7,persistent\u003dfalse]",
+      "terrestria:redwood_leaves[distance\u003d4,persistent\u003dfalse]",
+      "terrestria:redwood_leaves[distance\u003d6,persistent\u003dfalse]",
+      "terrestria:redwood_leaves[distance\u003d8,persistent\u003dfalse]",
+      "terrestria:redwood_leaves[distance\u003d5,persistent\u003dfalse]"
+    ],
+    "color": "ff2c4937"
+  },
+  {
+    "blocks": [
+      "terrestria:redwood_leaves[distance\u003d7,persistent\u003dfalse]",
+      "terrestria:redwood_leaves[distance\u003d6,persistent\u003dfalse]",
+      "terrestria:redwood_leaves[distance\u003d8,persistent\u003dfalse]",
+      "terrestria:redwood_leaves[distance\u003d9,persistent\u003dfalse]"
+    ],
+    "color": "ff2c4a34"
+  },
+  {
+    "blocks": [
+      "terrestria:hemlock_log[axis\u003dx]",
+      "terrestria:hemlock_log[axis\u003dz]"
+    ],
+    "color": "ff2a281b"
+  },
+  {
+    "blocks": [
+      "terrestria:hemlock_leaves[distance\u003d12,persistent\u003dfalse]"
+    ],
+    "color": "ff305c1f"
+  },
+  {
+    "blocks": [
+      "terrestria:hemlock_leaves[distance\u003d13,persistent\u003dfalse]"
+    ],
+    "color": "ff305c1e"
+  },
+  {
+    "blocks": [
+      "terrestria:potted_sakura_sapling"
+    ],
+    "color": "ff7c4535"
+  },
+  {
+    "blocks": [
+      "terrestria:rainbow_eucalyptus_log[axis\u003dy]"
+    ],
+    "color": "ff7d7084"
+  },
+  {
+    "blocks": [
+      "terrestria:rubber_log[axis\u003dy]"
+    ],
+    "color": "ffa39374"
+  }
+]
