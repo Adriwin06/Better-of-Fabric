@@ -1,0 +1,13 @@
+{
+  "xOffset": 0,
+  "sneakXOffset": 0,
+  "improvedCompatibility": true,
+  "enabledByDefault": true,
+  "dollEnabled": false,
+  "dollXOffset": 0,
+  "dollYOffset": 0,
+  "dollSize": 0,
+  "dollLookingSides": 20,
+  "dollLookingUpDown": -20,
+  "dollLockedHead": false
+}

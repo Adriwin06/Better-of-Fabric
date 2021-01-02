@@ -1,0 +1,16 @@
+{ 
+	/* Sets whether the permission list is a blacklist or whitelist
+	   BLACKLIST: Only specified items cannot be combined with an elytra
+	   WHITELIST: Only specified items can be combined with an elytra
+	*/
+	"permissionMode": "BLACKLIST",
+	// List of items by registry name to be blacklisted/whitelisted based on Permission Mode
+	"permissionList": [ 
+],
+	/* Sets how the elytra chestplates will behave
+	   NORMAL: Elytras will exist separately from the chestplate, able to be separated later
+	   UNISON: Elytras will fuse completely with the chestplate, unable to be separated
+	   PERFECT: Elytras will fuse completely with the chestplate and flying will not use durability
+	*/
+	"colytraMode": "NORMAL"
+}

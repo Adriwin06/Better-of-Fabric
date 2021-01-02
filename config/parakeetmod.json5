@@ -1,0 +1,6 @@
+{ 
+	// Generate Parakeets - 0 is false, 40 is true
+	"parakeetSpawnWeight": 40,
+	// Generate Cockatiels - 0 is false, 40 is true
+	"cockatielSpawnWeight": 40
+}
