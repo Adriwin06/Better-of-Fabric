@@ -1,0 +1,64 @@
+{
+  "configVersion": 1,
+  "inventory": {
+    "enabled": true,
+    "maxWidth": 9,
+    "maxHeight": 3,
+    "blacklist": []
+  },
+  "entityInventory": {
+    "enabled": true,
+    "maxWidth": 9,
+    "maxHeight": 3,
+    "blacklist": []
+  },
+  "energy": {
+    "enabled": true,
+    "expandWhenSneak": false,
+    "colors": {
+      "megane": 7408640,
+      "modern_industrialization": 11993088,
+      "techreborn": 8390656,
+      "astromine": 3501461,
+      "indrev": 3885790,
+      "appliedenergistics2": 6556063
+    },
+    "units": {
+      "megane": "E",
+      "modern_industrialization": "EU",
+      "indrev": "LF",
+      "appliedenergistics2": "AE"
+    },
+    "blacklist": [
+      "appliedenergistics2:energy_acceptor"
+    ]
+  },
+  "fluid": {
+    "enabled": true,
+    "expandWhenSneak": false,
+    "barColor": -15921831,
+    "blacklist": []
+  },
+  "progress": {
+    "enabled": true,
+    "showWhenZero": false,
+    "blacklist": [
+      "minecraft:furnace",
+      "minecraft:blast_furnace"
+    ]
+  },
+  "petOwner": {
+    "enabled": true,
+    "offline": true,
+    "blacklist": []
+  },
+  "effect": {
+    "enabled": true,
+    "level": true,
+    "roman": false,
+    "hidden": false,
+    "blacklist": []
+  },
+  "spawnEgg": false,
+  "playerHead": true
+}
