@@ -1,0 +1,13 @@
+{
+	"modpack.example.translation_key": "Example Translation",
+	"biome.betternether.flooded_deltas": "Flooded Deltas",
+	"biome.world_blender.mountainous_blended": "Mountainous Blended",
+	"biome.world_blender.general_blended": "General Blended",
+	"biome.world_blender.cold_hills_blended": "Cold Hills Blended",
+	"item.givemehats.santa_hat": "Santa Hat",
+	"item.patchouli.guide_book": "Patchouli Guide Book",
+	"item.earthtojavamobs.bone_shard": "Bone Shard",
+	"item.biomemakeover.icon_item": "BiomeMakeOver Icon"
+	"block.earthtojavamobs.mud_fluid": "Mud"
+	"block.the_bumblezone.sugar_water_block": "Sugar Water"
+}
