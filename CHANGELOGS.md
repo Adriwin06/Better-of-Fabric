@@ -1,0 +1,32 @@
+1.0
+Initial Release
+
+1.1
+Added Bamboo Tweaks: Fabric - bambootweaks-2.0.0+1.16.1.jar
+Added Advancements Enlarger - advancements-enlarger-0.2.3.jar
+Added Damage Tilt - DamageTilt-1.16-fabric-0.1.1.jar
+Added Dark Paintings - DarkPaintings-fabric-1.16.4-2.0.0.jar
+Added Blockshifter [Fabric] - blockshifter-1.3.2+fabric-1.16.4.jar
+Added Cherished Worlds (Fabric) - cherishedworlds-fabric-1.3.0-1.16.4.jar
+Added Draylar's Battle Towers - battletowers-3.3.2-1.16.4.jar
+Added Mo Glass - Mo-Glass-1.5-MC1.16.4.jar
+Added Pling - pling-1.3.0.jar
+Added SlotLock - Slotlock 1.0.1-BETA
+Added Stonecutter Tweaks - stonecutter-tweaks-1.1.0-1.16.jar
+Added Wolves With Armor - wolves-with-armor-1.5.2-1.16.2.jar
+Added RSWires - rswires-4.9.1.jar
+Added Get Off My Lawn - get-off-my-lawn-1.16.2-1.2.3-beta.jar
+Added Notes Fabric - notes-1.16.2-1.0.4.jar
+Added Harvest Scythes - Harvest Scythes .1.0.7
+Added cAn i MiNe thIS bLOCk? - can-i-mine-this-block-1.0.2.jar
+
+
+Updated Architectury (Fabric) - architectury-1.3.78-fabric.jar
+Updated Betterend - better-end-0.8.7-beta.jar
+Updated Biome Makeover - biome-makeover-1.16.4-1.2.7.jar
+Updated Colormatic - colormatic-2.2.8+mc.1.16.3.jar
+Updated CraftPresence - CraftPresence-Fabric-1.16.4-Release-1.7.6.jar
+Updated Earth2Java [Fabric] - Earth2Java-1.6.0+1.16.4.jar
+Updated Inmis - inmis-2.1.1-1.16.4.jar
+Updated The Bumblezone (Fabric) - the_bumblezone_fabric-1.16.3-2.2.14.jar
+Updated World Blender (Fabric) - world_blender-1.16.4-2.0.0.jar
