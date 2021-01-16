@@ -12,7 +12,7 @@
 	   Should window icon be changed?
 	   REMEMBER! You have to provide both 16x16 and 32x32 icon in .png format!
 	*/
-	"changeIcons": false,
+	"changeIcons": true,
 	/* 
 	   Here you may provide names of your icons relative to icons directory in WTC's config folder
 	   REMEMBER! You have to provide both 16x16 and 32x32 icon in .png format!
