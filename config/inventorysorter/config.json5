@@ -1,6 +1,6 @@
 {
 	// Enable 'Sort' button in inventorys
-	"displaySort": true,
+	"displaySort": false,
 	// Middle click to sort inventorys
 	"middleClick": true,
 	// Enable second 'Sort' button in player inv
