@@ -1,0 +1,33 @@
+{
+  "maxPortalLayer": 5,
+  "lagAttackProof": true,
+  "portalRenderLimit": 200,
+  "indirectLoadingRadiusCap": 8,
+  "compatibilityRenderMode": false,
+  "doCheckGlError": false,
+  "portalSearchingRange": 128,
+  "longerReachInCreative": false,
+  "renderYourselfInPortal": true,
+  "activeLoading": true,
+  "teleportationDebug": false,
+  "correctCrossPortalEntityRendering": true,
+  "multiThreadedNetherPortalSearching": true,
+  "edgelessSky": false,
+  "mirrorInteractableThroughPortal": false,
+  "looseMovementCheck": false,
+  "pureMirror": false,
+  "enableAlternateDimensions": true,
+  "reducedPortalRendering": false,
+  "visibilityPrediction": true,
+  "chunkUnloadDelayTicks": 300,
+  "forceMergePortalRendering": false,
+  "dimensionRenderRedirect": {
+    "immersive_portals:alternate1": "minecraft:overworld",
+    "immersive_portals:alternate2": "minecraft:overworld",
+    "immersive_portals:alternate3": "minecraft:overworld",
+    "immersive_portals:alternate4": "minecraft:overworld",
+    "immersive_portals:alternate5": "minecraft:overworld"
+  },
+  "netherPortalMode": "normal",
+  "endPortalMode": "normal"
+}

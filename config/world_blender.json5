@@ -173,11 +173,18 @@
 		    If all else fail, do /gamerule doFireTick false to reduce fire lag.
 		*/
 		"disallowLaggyFeatures": true,
+		/*  Use this if another mod is adding stuff to World Blender's biomes 
+		    and World Blender's blacklisting config is not working. This option 
+		    will wipe clear WB's biomes so they have absolutely nothing in it 
+		    and then it will import everyone else's stuff based on it's blacklist.
+		*/
+		"cleanSlateWBBiomesAtStartup": true,
 		/*  Dumps all resource locations (IDs) for all mods into a new file
-		    called identifierDump.txt and can be found by looking below
-		    the saves and mods folder in Minecraft's folder. The file is made if you set this option to true and then run modded Minecraft until you reach the title menu.
+		    at config/world_blender-identifier_dump.txt and can be found by
+		     looking in the config folder in Minecraft's folder. The file is made
+		    if you set this option to true and started a world.
 		   
-		    Use this option to look up the resource location or name of features, biomes, blocks, carvers, structures, or entities that you want to blacklist.
+		    Use this option to look up the resource location or name of registered features, biomes, blocks, carvers, structures, or entities that you want to blacklist.
 		*/
 		"identifierDump": false
 	},
