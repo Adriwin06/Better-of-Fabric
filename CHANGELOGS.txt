@@ -29,3 +29,19 @@ Updated Earth2Java [Fabric] - Earth2Java-1.6.0+1.16.4.jar
 Updated Inmis - inmis-2.1.1-1.16.4.jar
 Updated The Bumblezone (Fabric) - the_bumblezone_fabric-1.16.3-2.2.14.jar
 Updated World Blender (Fabric) - world_blender-1.16.4-2.0.0.jar
+
+1.2
+Added Wild World - WildWorld-1.3.0+1.16.2.jar
+Added Smithee - Smithee 0.2.2 ALPHA
+Added Vertical Repeaters - vertical-repeaters-1.0.0.jar
+Added Extra TNT - extratnt-1.0.2.jar
+Added Alaska Native Craft - alaskanativecraft-1.0.0.jar
+Added Spellbound Enchantments - spellbound-1.1.0.jar
+Added Compact TNT - Compact-TNT-Mod-1.1.jar
+Added Comforts (Fabric) - comforts-fabric-0.0.1-1.16.4.jar
+Added Fabrication - fabrication-1.2.11_01.jar
+Added Faliing Leaves - fallingleaves-1.4.jar
+
+Updated Architectury (Fabric) - architectury-1.3.81-fabric.jar
+Updated BetterEnd - better-end-0.8.8-beta.jar
+Updated Repurposed Structures (Fabric) - repurposed_structures-1.16.4-1.7.4.jar
