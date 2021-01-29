@@ -29,7 +29,7 @@ mainMenu {
             }
         }
 
-        text = literal("Better of Fabric - 1.0")
+        text = literal("Better of Fabric - 1.3")
         shadow = true
     }
 

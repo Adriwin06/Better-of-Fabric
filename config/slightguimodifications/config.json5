@@ -27,7 +27,7 @@
 		"backgroundColor": 0,
 		"selectionMode": "INVERT",
 		// Whether Text Fields should allow right click actions.
-		"rightClickActions": false
+		"rightClickActions": true
 	},
 	"sliderModifications": { 
 		// Whether this module is enabled.
