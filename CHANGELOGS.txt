@@ -45,3 +45,61 @@ Added Faliing Leaves - fallingleaves-1.4.jar
 Updated Architectury (Fabric) - architectury-1.3.81-fabric.jar
 Updated BetterEnd - better-end-0.8.8-beta.jar
 Updated Repurposed Structures (Fabric) - repurposed_structures-1.16.4-1.7.4.jar
+
+1.3
+
+2 New world types: Ecotones & Overworld Two
+
+Added Addendum (Fabric) - addendum-fabric-1.16.4-1.0.1.jar
+Added Chat+ - chatplus-1.0.1.jar
+Added Ecotones - ecotones-0.7.1.jar
+Added Flamboyant Refabricated - flamboyant_refabricated-1.16.5-1.0.0.jar
+Added Guillotine - guillotine-1.0.0.jar
+Added Overworld Two - Overworld Two 1.0.4 for 1.16.2 to 1.16.4
+Added Plated - Plated 2.0.1 Fabric
+Added Unearthed [Fabric] - Unearthed 1.0.5 MCV: 1.16.2/1.16.3/1.16.4
+Added Your Options Shall Be Respected (YOSBR) - yosbr-0.1.1.jar
+
+Deleted Inventory Sorting (because it was inclued in another mod)
+Deleted Damage Tilt (because it was inclued in Fabrication)
+
+Updated [Fabric] Expanded Storage - expandedstorage-5.6.32+1.16.5.jar
+Updated AdaPaxels - adapaxels-1.0.6+1.16.5.jar
+Updated Alaska Native Craft - alaskanativecraft-1.0.2.jar
+Updated Architectury API (Fabric) - architectury-1.5.104-fabric.jar
+Updated Artifacts (Fabric) - artifacts-2.3.0+fabric.jar
+Updated Better Enchanted Books (Fabric) - better-enchanted-books-1.16.3-1.2.1.jar
+Updated Biome Makeover - biome-makeover-1.16.4-1.2.9.jar
+Updated Campanion - campanion-1.3.2.jar
+Updated Cinderscapes - cinderscapes-1.3.2.jar
+Updated Dynamic FPS - dynamic-fps-2.0.1.jar
+Updated Dynamic Sound Filters - DynamicSoundFilters-1.2.0+1.16.5.jar
+Updated Earth2Java - Earth2Java-1.6.1+1.16.4.jar
+Updated Edit Sign - EditSign-Fabric-1.16.5-2.2.0.jar
+Updated Fabric API - fabric-api-0.30.0+1.16.jar
+Updated Fabric Language Scala - fabric-language-scala-1.0.0-fat.jar
+Updated Fabrication - fabrication-1.3.1.jar
+Updated Fabrishot - fabrishot-1.2.3.1.jar
+Updated Greater Eye of Ender [FABRIC] - GreaterEye-Fabric_1.16.5-1.1.5.jar
+Updated Kibe - kibe-1.16.5-1.6.3-BETA.jar
+Updated KubeJS Fabric - kubejs-1605.3.5-build.156-fabric.jar
+Updated Litematica - litematica-fabric-1.16.4-0.0.0-dev.20210120.213004.jar
+Updated Lithium (Fabric) - lithium-fabric-mc1.16.5-0.6.1.jar
+Updated MAmbience - Mambience-2.1.0+1.16.4.jar
+Updated Mod Menu - modmenu-1.14.15.jar
+Updated Mo Glass - Mo-Glass-1.5-MC1.16.5.jar
+Updated Mouse Wheelie (Fabric) - mousewheelie-1.6.3+mc1.16.4.jar
+Updated Netherite Plus Mod - netherite-plus-mod-1.3.8-1.16.5-fabric.jar
+Updated Not Enough Crashes - notenoughcrashes-2.2.0+1.16.5.jar
+Updated Rhino - rhino-1.7.13-build.12.jar
+Updated Roughly Enough Items Fabric (REI) - RoughlyEnoughItems-5.9.1.jar
+Updated ShulkerBoxTooltip - shulkerboxtooltip-2.3.4+1.16.4.jar
+Updated Smithee - wraith-smithee-0.2.3.jar
+Updated Spellbound Enchantments - spellbound-1.1.3.jar
+Updated Terrestria - terrestria-2.1.6.jar
+Updated The Bumblezone (Fabric) - the_bumblezone_fabric-1.16.5-2.2.17.jar
+Updated Trade (Fabric) - trade-1.1.3.jar
+Updated Traverse - traverse-3.3.1.jar
+Updated Visual Overhaul - visualoverhaul-2.0.1.jar
+Updated World Blender (Fabric) - world_blender-1.16.4-2.0.1.jar
+Updated WorldEdit - worldedit-fabric-mc1.16.3-7.2.2-dist.jar
