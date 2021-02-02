@@ -103,3 +103,26 @@ Updated Traverse - traverse-3.3.1.jar
 Updated Visual Overhaul - visualoverhaul-2.0.1.jar
 Updated World Blender (Fabric) - world_blender-1.16.4-2.0.1.jar
 Updated WorldEdit - worldedit-fabric-mc1.16.3-7.2.2-dist.jar
+
+1.4
+
+Added Attribute Fix {FABRIC} - attribute-fix-fabric-1.0.1.jar
+Added Better Hoppers (Hopper+) - hopper-plus-fabric-1.16.4-1.0.10.jar
+Added Biome Locator - biome_locator-1.0.0.jar
+Added Dual Riders - DualRiders-1.0.5.jar
+Added Slime Sling - SlimeSling-1.0.0.jar
+Added XP Storage - xp_storage-1.4+1.16.4.jar
+
+Updated Alaska Native Craft - alaskanativecraft-1.1.0.jar
+Updated Architectury API (Fabric) - architectury-1.5.105-fabric.jar
+Updated Biome Makeover - biome-makeover-1.16.4-1.2.10.jar
+Updated Campanion - campanion-1.3.3.jar
+Updated Carrier - carrier-1.7.2.jar
+Updated Cave Biomes - cavebiomes-0.6.2.jar
+Updated Dawn API - dawn-1.6.3.jar
+Updated KubeJS Fabric - kubejs-1605.3.6-build.160-fabric.jar
+Updated Not Enough Crashes - notenoughcrashes-3.1.5-fabric.jar
+Updated Polymorph (Fabric) - polymorph-fabric-0.0.9-1.16.5.jar
+Updated Terrestria - terrestria-2.1.7.jar
+Updated Wild World - WildWorld-2.0.0+1.16.5.jar
+Updated Rhino - rhino-1.7.13-build.14.jar
