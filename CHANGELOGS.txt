@@ -126,3 +126,24 @@ Updated Polymorph (Fabric) - polymorph-fabric-0.0.9-1.16.5.jar
 Updated Terrestria - terrestria-2.1.7.jar
 Updated Wild World - WildWorld-2.0.0+1.16.5.jar
 Updated Rhino - rhino-1.7.13-build.14.jar
+
+1.5
+
+Added Chroma Concrete - chroma-concrete-1.0.1.jar
+Added Experience Container [XP] - Experience-Container-1.12.jar
+Added Physics Mod - physics-mod-1.1.1_fabric.jar (Fabric) [This option is not automatically activated. To activate it, go to Options / Physics Options.] {This mod is Insane !!}
+
+Added End City for "Better End" Datapack with kubejs ( https://www.planetminecraft.com/data-pack/end-city-for-better-end/ )
+
+Updated Addendum (Fabric) - addendum-fabric-1.16.5-1.0.2.jar
+Updated Architectury API (Fabric) - architectury-1.5.107-fabric.jar
+Updated Biome Makeover - biome-makeover-1.16.4-1.2.11.jar
+Updated Dawn API - dawn-1.6.5.jar
+Updated Decorative - decorative-4.0.0.jar
+Updated Go Fish - go-fish-1.2.1-beta-1.16.4.jar
+Updated KubeJS Fabric - kubejs-1605.3.6-build.162-fabric.jar
+Updated Lithium (Fabric) - lithium-fabric-mc1.16.5-0.6.3.jar
+Updated Roughly Enough Items Fabric (REI) - RoughlyEnoughItems-5.9.2.jar
+Updated Seamless Loading Screen - seamless-loading-screen-1.2.1+1.16.2.jar
+Updated Terrestria - terrestria-2.2.0.jar
+Updated World Blender (Fabric) - world_blender-1.16.5-2.0.2.jar
