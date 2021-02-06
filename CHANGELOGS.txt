@@ -147,3 +147,7 @@ Updated Roughly Enough Items Fabric (REI) - RoughlyEnoughItems-5.9.2.jar
 Updated Seamless Loading Screen - seamless-loading-screen-1.2.1+1.16.2.jar
 Updated Terrestria - terrestria-2.2.0.jar
 Updated World Blender (Fabric) - world_blender-1.16.5-2.0.2.jar
+
+1.5.1
+
+Disable physics by default (To activate it, go to Options / Physics Options)
