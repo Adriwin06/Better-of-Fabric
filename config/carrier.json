@@ -1,8 +1,0 @@
-{
-  "type": "WHITELIST",
-  "list": [
-  	"minecraft:*",
-    "expandedstorage:*",
-    "charm:*"
-  ]
-}

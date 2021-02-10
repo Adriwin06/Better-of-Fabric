@@ -1,8 +1,0 @@
-{
-  "islandSize": 7,
-  "islandRarity": 6,
-  "startingBiome": "ecotones:temperate_forest",
-  "generateBeaches": true,
-  "seperateBiomes": true,
-  "hardcoreMode": true
-}
