@@ -151,3 +151,19 @@ Updated World Blender (Fabric) - world_blender-1.16.5-2.0.2.jar
 1.5.1
 
 Disable physics by default (To activate it, go to Options / Physics Options)
+
+1.6
+
+Added Not Enough Animations (Forge/Fabric) - notenoughanimations-1.1.0.jar (for First-person Model)
+
+Updated Architectury API (Fabric) - architectury-1.5.110-fabric.jar
+Updated Better Enchanted Books (Fabric) - better-enchanted-books-1.16.3-1.2.2.jar
+Updated Carrier - carrier-1.7.4.jar
+Updated Chat Heads - chat_heads-0.2.2+1.16.2.jar
+Updated First-person Model - FirstPersonMod-2.0.0-SNAPSHOT.jar
+Updated KubeJS Fabric - kubejs-1605.3.6-build.163-fabric.jar
+Updated Oh The Biomes You'll Go [FABRIC] - byg-1.1.4.jar
+Updated Physics Mod - physics-mod-1.3.2_fabric.jar
+Updated Roughly Enough Items Fabric (REI) - RoughlyEnoughItems-5.9.171.jar
+Updated Seamless Loading Screen - seamless-loading-screen-1.2.2+1.16.2.jar
+Updated Unearthed [Fabric] - unearthed-1.1.0.jar
