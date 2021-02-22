@@ -212,3 +212,46 @@ Updated Staff of Building - staffofbuilding-1.2.5-1.16.5.jar
 Updated The Bumblezone (Fabric) - the_bumblezone_fabric-1.16.5-2.3.0.jar
 Updated Wild Explorer - wild_explorer-1.3.2.jar
 Updated XP Storage - xp_storage-1.4+1.16.5.jar
+
+1.8
+
+-------- Added a sever pack ---------
+But this server pack has not been tested because I couldn't test it so it might not work!
+
+Added Animal Feeding Trough - animal_feeding_trough-1.0.0.jar
+Added Auto Clicker (Fabric) - auto-clicker-fabric-1.0.0.jar
+Added Cloth API (Fabric) - cloth-api-1.4.9.jar
+Added Desolation (Fabric) - desolation-1.0.4.3.jar
+Added Enhanced Attack Indicator - enhanced_attack_indicator-1.0.0+1.16.jar
+Added More Shields! - MoreShields-1.1.0.jar
+
+Updated Alaska Native Craft - alaskanativecraft-1.1.1.jar
+Updated Architectury API (Fabric) - architectury-1.7.117-fabric.jar
+Updated BackSlot - backslot-1.1.9.jar
+Updated Better Enchanted Books (Fabric) - better-enchanted-books-1.16.4-1.2.4.jar
+Updated Biome Locator - biome_locator-1.1.2.jar
+Updated Campanion - campanion-1.3.5.jar
+Updated Chromatic Blocks - chroma-blocks-1.1.0.jar
+Updated Cloth Config API (Fabric) - cloth-config-4.11.14-fabric.jar
+Updated Draylar's Battle Towers - battletowers-3.3.3-1.16.4.jar
+Updated Enhanced Celestials (Fabric) - Blood Moons & Harvest Moons - enhancedcelestials-1.0.2.jar
+Updated Fabric API - fabric-api-0.30.3+1.16.jar
+Updated Fabrication - fabrication-1.3.3.jar
+Updated First-person Model - FirstPersonMod-2.0.0-SNAPSHOT.jar
+Updated FlytreLib - flytre_lib-0.2.6.jar
+Updated GeckoLib [FABRIC] - geckolib-fabric-1.16.5-3.0.22.jar
+Updated Get Off My Lawn - get-off-my-lawn-1.16.4-1.3.2-beta.jar
+Updated Gravestones - gravestones-v1.9.jar
+Updated KubeJS Fabric - kubejs-1605.3.6-build.170-fabric.jar
+Updated Light Overlay (Rift/Forge/Fabric) - light-overlay-5.8.0.jar
+Updated megane - megane-3.1.3+1.16.5.jar
+Updated Mod Menu - modmenu-1.16.8.jar
+Updated Patchouli (Fabric) - Patchouli-1.16.4-50-FABRIC.jar
+Updated Repurposed Structures (Fabric) - repurposed_structures-1.16.5-1.8.2.jar
+Updated Roughly Enough Items Fabric (REI) - RoughlyEnoughItems-5.10.183.jar
+Updated Secret Rooms Fabric - secretrooms-0.9.3+1.16.5.jar
+Updated Spellbound Enchantments - spellbound-1.2.0.jar
+Updated TRansliterationLib - TRansliterationLib-1.0.2.jar
+Updated ThrowableTorch (Fabric) - throwabletorch-1.0.2.jar
+Updated Traverse - traverse-3.3.2.jar
+Updated WorldEdit - worldedit-mod-7.2.3.jar
