@@ -255,3 +255,42 @@ Updated TRansliterationLib - TRansliterationLib-1.0.2.jar
 Updated ThrowableTorch (Fabric) - throwabletorch-1.0.2.jar
 Updated Traverse - traverse-3.3.2.jar
 Updated WorldEdit - worldedit-mod-7.2.3.jar
+
+1.9
+
+Added Castle Dungeons [Forge & Fabric] - castle_dungeons-2.2-1.16.5-fabric.jar
+Added Enchanted Book Redesign Fabric - enchantedbookredesign-1.1.jar
+Added Screenshot to Clipboard (Fabric) - ScreenshotToClipboardFabric-1.0.6.jar
+
+Deleted Better Enchanted Books (Fabric) (Because Enchanted Book Redesign Fabric is better)
+
+Updated [Fabric] Expanded Storage - expandedstorage-5.6.33+1.16.5.jar
+Updated AdventureZ - adventurez-1.1.7.jar
+Updated Architectury API (Fabric) - architectury-1.8.130-fabric.jar
+Updated Better Hoppers (Hopper+) - better-hoppers-2.2.0.jar
+Updated Blockus - blockus-2.1.0+1.16.5.jar
+Updated Comforts (Fabric) - comforts-fabric-0.0.2-1.16.5.jar
+Updated Dawn API - dawn-1.7.jar
+Updated Desolation (Fabric) - desolation-1.1.0.jar
+Updated Extra Alchemy - extraalchemy-fabric-1.16.5-1.4.1.jar
+Updated Fabric API - fabric-api-0.31.0+1.16.jar
+Updated Fabrishot -  fabrishot-1.3.0.jar
+Updated FlytreLib - flytre_lib-0.2.8.jar
+Updated Gate of Babylon - gate-of-babylon-1.3.0-1.16.5.jar
+Updated GeckoLib [FABRIC] - geckolib-fabric-1.16.5-3.0.23.jar
+Updated Get Off My Lawn - get-off-my-lawn-1.16.4-1.3.3-beta.jar
+Updated Inmis - inmis-2.1.2-1.16.4.jar
+Updated Kibe - kibe-1.16.5-1.6.4-BETA.jar
+Updated KubeJS Fabric - kubejs-1605.3.6-build.171-fabric.jar
+Updated Lib Block Attributes - libblockattributes-all-0.8.7.jar
+Updated Lithium (Fabric) - lithium-fabric-mc1.16.5-0.6.4.jar
+Updated More Shields! [Forge + Fabric] - MoreShields-2.0.1.jar
+Updated Not Enough Crashes (Fabric) - notenoughcrashes-3.1.7-fabric.jar
+Updated Oh The Biomes You'll Go [FABRIC] - byg-1.1.6.jar
+Updated Polymorph (Fabric) - polymorph-fabric-0.0.10-1.16.5.jar
+Updated Repurposed Structures (Fabric) - repurposed_structures-1.16.5-1.8.5.jar
+Updated Roughly Enough Items Fabric (REI) - RoughlyEnoughItems-5.10.184.jar
+Updated ThrowableTorch (Fabric) - throwabletorch-1.1.jar
+Updated Vanilla Hammers - vanilla-hammers-3.0.2-1.16.5.jar
+Updated YUNG's API (Fabric) - YungsApi-1.16.5-Fabric-2.jar
+Updated YUNG's Better Caves (Fabric) - BetterCaves-Fabric-1.16.5-1.1.jar
