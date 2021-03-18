@@ -308,7 +308,7 @@ Added Customizable Elytra (Fabric) - customizableelytra-fabric-1.1.0.jar
 Added Fabric Capes - capes-1.1.1.jar
 Added Fade In Chunks - fadeinchunks-1.0.0.jar
 Added Full Slabs - full-slabs-2.0.0.jar
-ADDED Hydrogen - hydrogen-fabric-mc1.16.5-0.2.jar
+Added Hydrogen - hydrogen-fabric-mc1.16.5-0.2.jar
 Added Llama Steeds // FABRIC - llamasteeds-2020.02.08.jar
 Added Lapis Warps - lapiswarps-0.1.jar
 Added Micalibria - micalibria-1.0.2.jar
@@ -318,10 +318,13 @@ Added Smooth Boot (Fabric) - smoothboot-fabric-1.16.5-1.5.0.jar
 Added Sodium Extra - sodium-extra-0.2.2.jar
 Added Untitled Duck Mod (Fabric) - untitledduckmod-0.1.1-fabric.jar
 
+
 Deleted Castle Dungeons - castle_dungeons-2.2-1.16.5-fabric.jar
 Deleted Enderite - enderite-0.0.2.jar
 Deleted MinecraftCapes Mod - MinecraftCapes Fabric 1.16.5-v10.jar (because it was inclued in Fabric Capes)
 Deleted Smithee - wraith-smithee-0.2.3.jar (because it's not a Vanilla+ mod)
+
+
 
 Updated AdventureZ - adventurez-1.2.1.jar
 Updated Architectury API (Fabric) - architectury-1.9.133-fabric.jar
@@ -358,3 +361,69 @@ Updated Visual Overhaul - visualoverhaul-3.0.0.jar
 Updated World Blender (Fabric) - world_blender-1.16.5-2.1.2.jar
 Updated WorldEdit - worldedit-mod-7.2.4.jar
 Updated YUNG's Better Mineshafts (Fabric) - BetterMineshafts-Fabric-1.16.4-1.0.1.jar
+
+Added Big Beacons - bigbeacons-1.0.4.jar
+Added Black Hole - blackhole-1.0.1+1.16.5.jar
+Added Colonies - colonies-1.1.1.jar
+Added Customizable Elytra (Fabric) - customizableelytra-fabric-1.1.0.jar
+Added Fabric Capes - capes-1.1.1.jar
+Added Fade In Chunks - fadeinchunks-1.0.0.jar
+Added Full Slabs - full-slabs-2.0.0.jar
+Added Hydrogen - hydrogen-fabric-mc1.16.5-0.2.jar
+Added Llama Steeds // FABRIC - llamasteeds-2020.02.08.jar
+Added Lapis Warps - lapiswarps-0.1.jar
+Added Micalibria - micalibria-1.0.2.jar
+Added RightClickHarvest [FABRIC] - rightclickharvest-1.0.0.jar
+Added Runelic - Runelic-1.16.5-7.0.1.jar
+Added Smooth Boot (Fabric) - smoothboot-fabric-1.16.5-1.5.0.jar
+Added Sodium Extra - sodium-extra-0.2.2.jar
+Added Untitled Duck Mod (Fabric) - untitledduckmod-0.1.1-fabric.jar
+
+
+
+Deleted Castle Dungeons - castle_dungeons-2.2-1.16.5-fabric.jar
+Deleted Enderite - enderite-0.0.2.jar
+Deleted MinecraftCapes Mod - MinecraftCapes Fabric 1.16.5-v10.jar (because it was inclued in Fabric Capes)
+Deleted Smithee - wraith-smithee-0.2.3.jar (because it's not a Vanilla+ mod)
+
+
+
+Updated AdventureZ - adventurez-1.2.1.jar
+Updated Architectury API (Fabric) - architectury-1.9.133-fabric.jar
+Updated Artifacts (Fabric) - artifacts-3.0.3+fabric.jar
+Updated Better Hoppers (Hopper+) {FABRIC | FORGE} - hplus-forge-2.0.0.jar
+Updated BLAST 💣 - blast-1.5.1.jar
+Updated Cloth Config API (Fabric) - cloth-config-4.11.15-fabric.jar
+Updated Desolation (Fabric) - desolation-1.1.1.jar
+Updated Ecotones - ecotones-0.7.2.jar
+Updated Extra Alchemy - extraalchemy-fabric-1.16.5-1.4.3.jar
+Updated Fabric API - fabric-api-0.32.0+1.16.jar
+Updated Fabric Language Kotlin - fabric-language-kotlin-1.5.0+kotlin.1.4.31.jar
+Updated Fabrication - fabrication-1.3.4.jar
+Updated First-person Model (Forge/Fabric) - FirstPersonMod-2.0.0.jar
+Updated Gate of Babylon - gate-of-babylon-1.4.1-1.16.5.jar
+Updated GeckoLib [FABRIC] - geckolib-fabric-1.16.5-3.0.24.jar
+Updated Inmis - inmis-2.1.3-1.16.5.jar
+Updated Jumploader - jumploader-2.1.3.jar
+Updated Kibe - kibe-1.16.5-1.6.6-BETA.jar
+Updated KubeJS Fabric - kubejs-1605.3.6-build.176-fabric.jar
+Updated MAmbience - Mambience-3.1.0+1.16.5.jar
+Updated Mo' Structures - mostructures-1.1.0+mc.1.16.5.jar
+Updated Netherite Plus Mod - netherite-plus-mod-1.4.0-1.16.5-fabric.jar
+Updated Not Enough Animations (Forge/Fabric) - notenoughanimations-1.2.0.jar
+Updated Not Enough Crashes (Fabric) - notenoughcrashes-3.1.8-fabric.jar
+Updated Oh The Biomes You'll Go [FABRIC] - byg-1.1.7.jar
+Updated Repurposed Structures (Fabric) - repurposed_structures-1.16.5-1.9.0.jar
+Updated Respawnable Pets - respawnablepets-1.16.5-2.jar
+Updated Seamless Loading Screen - seamless-loading-screen-1.3.2+1.16.2.jar
+Updated Spellbound Enchantments - spellbound-1.2.1.jar
+Updated TRansliterationLib - TRansliterationLib-1.0.3.jar
+Updated Unearthed [Fabric] - unearthed-1.1.1.jar
+Updated Visual Overhaul - visualoverhaul-3.0.0.jar
+Updated World Blender (Fabric) - world_blender-1.16.5-2.1.2.jar
+Updated WorldEdit - worldedit-mod-7.2.4.jar
+Updated YUNG's Better Mineshafts (Fabric) - BetterMineshafts-Fabric-1.16.4-1.0.1.jar
+
+
+
+!!!! Now in Partnership with BisectHosting. Thanks to them for sponsoring my modpack !!!!
