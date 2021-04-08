@@ -319,7 +319,7 @@ Added Untitled Duck Mod (Fabric) - untitledduckmod-0.1.1-fabric.jar
 Deleted Castle Dungeons - castle_dungeons-2.2-1.16.5-fabric.jar
 Deleted Enderite - enderite-0.0.2.jar
 Deleted MinecraftCapes Mod - MinecraftCapes Fabric 1.16.5-v10.jar (because it was inclued in Fabric Capes)
-Deleted Smithee - wraith-smithee-0.2.3.jar (because it's not a Vanilla+ mod)
+Deleted Smithee - wraith-smithee-0.2.3.jar (because it is not finished)
 
 
 
